@@ -1,5 +1,5 @@
 # UI_synthesis
-Platform for Synthesis Ultrasound Images in High Resolution.
+Platform for Synthesis Ultrasound Images in High Resolution. (Ovary datasets)
 
 ## Usage
 
