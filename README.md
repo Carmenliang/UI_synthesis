@@ -6,7 +6,7 @@ A platform for synthesizing realistic, high-resolution, and editable ultrasound 
  (We provide a cpu version, and therfore the computational time will be longer than using GPU.)
 
 ## Software download
-  https://1drv.ms/u/s!AjRq4iQQNnRfgig1lXzDHnMrIOhs?e=YRBXcc](https://1drv.ms/u/s!AjRq4iQQNnRfgig1lXzDHnMrIOhs?e=YRBXcc)
+  [https://1drv.ms/u/s!AjRq4iQQNnRfgig1lXzDHnMrIOhs?e=YRBXcc](https://1drv.ms/u/s!AjRq4iQQNnRfgig1lXzDHnMrIOhs?e=YRBXcc)
 
 ## Usage
 ![image](https://user-images.githubusercontent.com/37099112/121143436-a2039180-c86f-11eb-9012-d58009c3cb43.png)
