@@ -1,5 +1,5 @@
 # UI_synthesis
-A platform for synthesizing realistic, high-resolution, and editable ultrasound images based on generative adversarial network. (Ovary datasets)
+A platform for synthesizing realistic, high-resolution, and editable ultrasound images based on generative adversarial network. (Ovary dataset)
 
 ## System requirements
  - Windows OS
