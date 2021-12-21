@@ -21,7 +21,7 @@ A platform for synthesizing realistic, high-resolution, and editable ultrasound 
 
 ### Synthesis using demo image
 1.	Download the file in [https://1drv.ms/u/s!AjRq4iQQNnRfgig1lXzDHnMrIOhs?e=YRBXcc](https://1drv.ms/u/s!AjRq4iQQNnRfgig1lXzDHnMrIOhs?e=YRBXcc).
-2.	In windows OS, click executive file, 'start.exe'.
-3.	Click 'Open Image' to load a label image. Demo images are in the file './demo_img'.
-	The platform will transfer the label to ultrasound images automatically after loaded from file.
-4.	Set color and brush size of the drawing pen to edit in label.  Wait a moment after editing, and the synthesized ultrasound image will update automatically , or you can click 'Transfer' to start to synthesize.
+2.	Double-click 'start.exe'.
+3.	Click 'Open Image' to load a label image. Demo images are in the folder './demo_img'.
+	After the loading, the platform will transfer the label image to a ultrasound image automatically.
+4.	Set color and brush size of the drawing pen to edit the label image. Wait a few seconds after editing, and the synthesized ultrasound image will update automatically , or you can click 'Transfer' to start to synthesize immediately.
