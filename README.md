@@ -3,7 +3,7 @@ A platform for synthesizing realistic, high-resolution, and editable ultrasound 
 
 ## System requirements
  - Windows OS
- (We provide a cpu version, and therfore the computational time will be longer than using GPU.)
+ (We provide a CPU version, and therfore the computational time will be longer than using GPU.)
 
 ## Software download
   [https://1drv.ms/u/s!AjRq4iQQNnRfgig1lXzDHnMrIOhs?e=YRBXcc](https://1drv.ms/u/s!AjRq4iQQNnRfgig1lXzDHnMrIOhs?e=YRBXcc)
